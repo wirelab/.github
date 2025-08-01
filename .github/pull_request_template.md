@@ -14,6 +14,8 @@
 -
 
 ### Definition of done
+By submitting this PR I certify that my contribution adheres to our [definition of done](https://wirelab.atlassian.net/wiki/x/FIBICAE)
+
 - All acceptance criteria are met
 - The implementation works across supported devices and screen sizes
 - The implementation is resilient to real-world edge cases
