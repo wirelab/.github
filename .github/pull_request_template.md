@@ -1,69 +1,23 @@
 ### Summary
+<!-- What is the goal of the PR? -->
 
-*--- What is the goal of the PR? ---*
-
-
-**Associated Jira ticket(s):**
-
+### Associated Jira ticket(s)
 -
-
-### Type of change
-*--- Delete the options that are not relevant ---*
-
-- Bug fix _(Non-breaking change which fixes an issue)_
-- Feature _(New feature, change to existing feature, etc.)_
-- Release _(Release of a new version to acceptance or production)_
-- Maintenance _(Refactoring, code cleanup, etc.)_
-- Other: ...
-
 
 ### Changes
-
-*--- Provide a list of the changes you made. ---*
-
+<!-- Provide a list of the changes you made. -->
 -
 -
-
 
 ### How are changes testable?
-*--- What URL, what steps, what data should be used to test the changes? ---*
-
--
+<!-- What URL, what steps, what data should be used to test the changes? -->
 -
 
-### Points of interest and additional notes
-
-*--- Are there other points that you think are worth mentioning? ---*
-
--
--
-
-### Questions to the reviewer
-
-*--- Do you or did you have any problem? ---*
-
--
--
-
-### Our contribution policy
-
-- I have mentioned the Jira ticket(s) in my commit messages: *[JIRA-123] message*
-- I have commented my code, particularly in hard-to-understand areas.
-- I have removed commented code and also debug code (console.log(), dd(), dump(), etc.).
-- I have used separate commits for linting and code style changes.
-
-
-### Checklist
-
-- [ ] I have performed a self-review of my own code.
-- [ ] I have added action points to the Jira ticket(s) if necessary _(for after the release, done by us or by the client)_
-- [ ] I have updated the documentation accordingly.
-
-
-#### Craft CMS specific, if sections / globals / plugins are added::
-- [ ] I have updated user permissions accordingly.
-
-
-
-
-
+### Definition of done
+- [x] All acceptance criteria are met
+- [x] The implementation works across supported devices and screen sizes
+- [x] The implementation is resilient to real-world edge cases
+- [x] The code adheres to code guidelines and is readable and maintainable
+- [x] Self-review (incl. design/marketing validation) is finished  
+- [x] Sprint Review Notes are filled in (e.g. client points, follow-ups, or `No notes or release tasks`)  
+- [x] The work is stable and ready for deployment  
